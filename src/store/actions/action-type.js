@@ -1,0 +1,14 @@
+export const getpostsfromdb = "GET_POSTS_FROM_DB";
+export const getAssignedpostsfromdb = "GET_ASSIGNED_POSTS_FROM_DB";
+export const addPostsToDB = "ADD_POST_TO_DB";
+export const addClient = "ADD_CLIENT_TO_DB";
+export const loginClient = "LOGIN_CLIENT_TO_DB";
+export const updateClient = "UPDATE_CLIENT_TO_DB";
+export const addComplaint = "ADD_COMPLAINT_TO_DB";
+export const searchpostsfromdb = "SEARCH_POSTS_FROM_DB";
+export const sendmsgtodb = "SEND_MSG_TO_DB";
+export const getmsgfromdb = "GET_MSG_FROM_DB";
+export const receiveOrderToDB = "RECEIVE_ORDER_TO_DB";
+export const receiveOrderClientToDB = "RECEIVE_ORDER_CLIENT_TO_DB";
+export const sendOrderClientToDB = "SEND_ORDER_CLIENT_TO_DB";
+export const sendOrderToDB = "SEND_CLIENT_TO_DB";
